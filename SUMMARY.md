@@ -1,5 +1,6 @@
 # Summary
 
-* [Bases](/bases/bases.md)
 * [VIM](vim.md)
-* [vimium](vimium.md)
+* [Vimium](vimium.md)
+* [Atom](atom.md)
+* [GFW](gfw.md)
