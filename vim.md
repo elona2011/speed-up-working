@@ -49,7 +49,16 @@ ctrl-g 显示行号
 
 ```
 :browse old //打开文件历史
+:Tex //打开新tab页
+:Vex //open explorer in a new vertical window
+:Sex //open explorer in a new horizontal window
+```
 
+# Tab页
+
+```
+:tabnew //打开新tab页
+gt,gT //切换tab页
 ```
 
 # gVim设置
@@ -80,5 +89,18 @@ endif
 set backupdir=~/vimtmp//
 set directory=~/vimtmp//
 set undodir=~/vimtmp//
+```
+
+# Plugins
+
+## Vundle
+
+win7下安装注意：
+
+在_vimrc中注意将%HOME%和%USERFROFILE%修改为$VIM，否则报错找不到Vundle
+
+```
+set rtp+=$VIM/vimfiles/bundle/Vundle.vim/
+call vundle#begin('$VIM/vimfiles/bundle/')
 ```
 
