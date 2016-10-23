@@ -1,3 +1,9 @@
+# 重复之前操作
+
+```
+.
+```
+
 # 光标移动
 
 ```
@@ -103,4 +109,3 @@ win7下安装注意：
 set rtp+=$VIM/vimfiles/bundle/Vundle.vim/
 call vundle#begin('$VIM/vimfiles/bundle/')
 ```
-
