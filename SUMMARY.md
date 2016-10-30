@@ -2,6 +2,6 @@
 
 * [VIM](vim.md)
 * [Vimium](vimium.md)
-* [Windows](windows.md)
+* [OS](os.md)
 * [Atom](atom.md)
 * [GFW](gfw.md)
